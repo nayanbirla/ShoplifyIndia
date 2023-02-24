@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/Electronics%20Store/web/includes/head.jsp</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/Electronics%20Store/src/java/Servlet/Registers.java</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/Electronics%20Store/src/java/Log/Otpverify.java</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/Electronics%20Store/src/java/Log/Cart.java</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/Electronics%20Store/web/AddProduct.jsp</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/Electronics%20Store/src/java/Log/User.java</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/Electronics%20Store/web/index.jsp</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/Electronics%20Store/src/java/Dao/ProductDao.java</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/Electronics%20Store/src/java/Servlet/OTP.java</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/Electronics%20Store/src/java/Servlet/ARegister.java</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/Electronics%20Store/web/includes/footer.jsp</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/Electronics%20Store/src/java/Servlet/Addprod.java</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/Electronics%20Store/web/includes/main.jsp</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/Electronics%20Store/web/cart.jsp</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/Electronics%20Store/src/java/Log/Product.java</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/Electronics%20Store/src/java/Servlet/Ordernow.java</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/Electronics%20Store/src/java/Servlet/LoginServlet.java</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/Electronics%20Store/web/Record.jsp</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/Electronics%20Store/web/sales.jsp</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/Electronics%20Store/web/login.jsp</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/Electronics%20Store/web/Register.jsp</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/Electronics%20Store/src/java/Servlet/Otpcheck.java</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/Electronics%20Store/src/java/Servlet/delete.java</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/Electronics%20Store/src/java/Dao/UserDao.java</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/Electronics%20Store/src/java/Dao/OrderDao.java</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/Electronics%20Store/web/Otp.jsp</file>
+        </group>
+    </open-files>
+</project-private>
